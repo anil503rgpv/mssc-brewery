@@ -1,6 +1,5 @@
 package com.shiva.msscbrewery.web.service;
 
-import com.shiva.msscbrewery.web.model.BeerDto;
 import com.shiva.msscbrewery.web.model.CustomerDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

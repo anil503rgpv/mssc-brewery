@@ -1,7 +1,6 @@
 package com.shiva.msscbrewery.web.controller;
 
 
-import com.shiva.msscbrewery.web.model.BeerDto;
 import com.shiva.msscbrewery.web.model.CustomerDto;
 import com.shiva.msscbrewery.web.service.CustomerService;
 import org.springframework.http.HttpHeaders;
